@@ -21,8 +21,8 @@ split-divider-color = #292929
 unfocused-split-fill = #0c0c0c
 unfocused-split-opacity = 0.6
 
-cursor-color = #aa99ff
-# cursor-opacity = 0.8
+cursor-color = cell-foreground
+cursor-text = #15161c
 selection-background = #7070c7
 # selection-background = #aa99ff
 selection-foreground = #100b29
