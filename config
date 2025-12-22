@@ -1,0 +1,25 @@
+auto-update = check
+auto-update-channel = stable
+working-directory = home
+clipboard-paste-protection = true
+
+theme = h
+maximize = true
+cursor-style = bar
+cursor-style-blink = true
+mouse-hide-while-typing = true
+font-size = 13
+window-padding-balance = true
+window-padding-color = extend
+
+macos-titlebar-style = transparent
+macos-titlebar-proxy-icon = hidden
+macos-window-buttons = hidden
+macos-non-native-fullscreen = true
+macos-option-as-alt = true
+
+# `always` will always save window state whenever Ghostty is exited
+window-save-state = default
+window-new-tab-position = end
+
+quit-after-last-window-closed = true
