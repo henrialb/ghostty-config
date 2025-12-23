@@ -16,7 +16,7 @@ palette = 14=#009b8e
 palette = 15=#dedede
 
 background = #121212
-foreground = #c6d0f5
+foreground = #dedede
 split-divider-color = #292929
 unfocused-split-fill = #0c0c0c
 unfocused-split-opacity = 0.6
